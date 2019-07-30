@@ -1,4 +1,7 @@
-package oca.inheritence;
+package oca.inheritence.clothing;
+
+import oca.inheritence.clothing.items.Clothing;
+import oca.inheritence.clothing.items.Socks;
 
 import java.util.ArrayList;
 

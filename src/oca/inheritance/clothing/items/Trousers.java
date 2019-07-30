@@ -1,8 +1,8 @@
-package oca.inheritence;
+package oca.inheritence.clothing.items;
 
-import oca.inheritence.clothing.Clothing;
+import oca.inheritence.Returnable;
 
-public class Trousers extends Clothing implements Returnable  {
+public class Trousers extends Clothing implements Returnable {
 
     @Override
     public void scan() {

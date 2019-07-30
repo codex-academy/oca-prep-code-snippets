@@ -1,5 +1,7 @@
-package oca.inheritence.clothing;
+package oca.inheritence.clothing.items;
 
+
+import oca.inheritence.Returnable;
 
 public abstract class Clothing {
 

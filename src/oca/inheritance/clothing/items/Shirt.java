@@ -1,6 +1,8 @@
-package oca.inheritence;
+package oca.inheritence.clothing.items;
 
-public class Shirt extends Clothing{
+import oca.inheritence.Returnable;
+
+public abstract class Shirt extends Clothing implements Returnable {
     public Shirt(char size, double price) {
         super(price);
         setSize(size);
@@ -19,7 +21,9 @@ public class Shirt extends Clothing{
 
     @Override
     public void scan() {
-        System.out.println("Scanned a shirt!");
+        System.out.println("==> in Shirt scan");
+        System.out.println("Scanned a shirt : " + isReturnable());
     }
+
 
 }
