@@ -1,4 +1,4 @@
 package oca.interfaces;
 
-public class Red {
+public interface Red {
 }

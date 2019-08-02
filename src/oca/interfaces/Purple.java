@@ -1,4 +1,5 @@
 package oca.interfaces;
 
-public class Purple {
+public class Purple implements Blue, Red {
+
 }

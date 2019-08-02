@@ -1,7 +1,4 @@
-package oca.inheritence;
-
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
+package oca.inheritance;
 
 public class School {
 

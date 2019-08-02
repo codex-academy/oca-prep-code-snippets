@@ -1,4 +1,4 @@
-package oca.inheritence;
+package oca.inheritance;
 
 public interface Returnable {
     boolean isReturnable();

@@ -1,7 +1,7 @@
-package oca.inheritence.clothing;
+package oca.inheritance.clothing;
 
-import oca.inheritence.Returnable;
-import oca.inheritence.clothing.items.*;
+import oca.inheritance.Returnable;
+import oca.inheritance.clothing.items.*;
 
 interface Collection {
     public void go();

@@ -1,4 +1,4 @@
-package oca.inheritence;
+package oca.inheritance;
 
 public class B extends A {
 

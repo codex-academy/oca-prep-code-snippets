@@ -1,6 +1,6 @@
-package oca.inheritence.clothing.items;
+package oca.inheritance.clothing.items;
 
-import oca.inheritence.Returnable;
+import oca.inheritance.Returnable;
 
 public class Socks extends Clothing implements Returnable {
 

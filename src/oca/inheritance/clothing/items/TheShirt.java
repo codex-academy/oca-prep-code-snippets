@@ -1,4 +1,4 @@
-package oca.inheritence.clothing.items;
+package oca.inheritance.clothing.items;
 
 public class TheShirt extends Shirt {
 

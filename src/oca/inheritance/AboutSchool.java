@@ -1,6 +1,4 @@
-package oca.inheritence;
-
-import java.time.LocalDate;
+package oca.inheritance;
 
 public class AboutSchool {
 }

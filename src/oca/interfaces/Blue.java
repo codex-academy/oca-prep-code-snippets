@@ -1,4 +1,4 @@
 package oca.interfaces;
 
-public class Blue {
+public interface Blue {
 }

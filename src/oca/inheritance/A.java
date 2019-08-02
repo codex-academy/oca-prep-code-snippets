@@ -1,4 +1,4 @@
-package oca.inheritence;
+package oca.inheritance;
 
 public class A {
     public A(){

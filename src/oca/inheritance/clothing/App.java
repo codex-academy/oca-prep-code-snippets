@@ -1,7 +1,7 @@
-package oca.inheritence.clothing;
+package oca.inheritance.clothing;
 
-import oca.inheritence.*;
-import oca.inheritence.clothing.items.*;
+import oca.inheritance.*;
+import oca.inheritance.clothing.items.*;
 
 public class App {
 
